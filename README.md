@@ -65,7 +65,7 @@ Além disso, cada motocicleta agora pode ser classificada por tipo:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/leosilper/organized-scann-api.git
+git clone https://github.com/juliosamueloliveira/organized-scann-api.git
 
 # Acesse o diretório
 cd organized-scann-api
